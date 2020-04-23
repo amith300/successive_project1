@@ -1,0 +1,8 @@
+Started by user [8mha:////4C3xouKYzcMIfx19k7wOS+MMiTvpma9/KgecufrrSjSzAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/firstjob
+[firstjob] $ /bin/sh -xe /tmp/jenkins3901404725101467815.sh
++ /tmp/script.sh amit PANDEY true
+/tmp/jenkins3901404725101467815.sh: 2: /tmp/jenkins3901404725101467815.sh: /tmp/script.sh: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
